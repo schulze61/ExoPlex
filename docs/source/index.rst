@@ -5,15 +5,10 @@ ExoPlex is a thermodynamically self-consistent mass-radius-composition calculato
 ExoPlex is python 3 based and requires the following packages:  
 
    numpy  
-
    scipy  
-
    matplotlib  
-
    pexpect  
-
    sympy  
-
    jupyter (for Tutorial)  
 
 Each of these can be installed using pip.
